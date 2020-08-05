@@ -115,6 +115,25 @@
             "categorie":"Wildelife | Nature | Adventure",
             "studio": "Never thought of it",
             "img":"https://instagram.fblr1-5.fna.fbcdn.net/v/t51.2885-15/e35/83380142_124914672353235_1792528215063527003_n.jpg?_nc_ht=instagram.fblr1-5.fna.fbcdn.net&_nc_cat=103&_nc_ohc=EYulSfESHWsAX8tnI0Z&oh=2553acad9b091b7fbde8570d8162c4f7&oe=5F48A25E"
-        }
+        },
+        {
+            "name": "Try Again",
+            "description": "I'm glad that I have a camera with me, from that I can explore this world far more better than without camera, days are going good since this pandemic, ok that's all, see ya later",
+            "Rating": "199",
+            "episode": 21,
+            "categorie":"Wildelife | Nature | Adventure",
+            "studio": "Never thought of it",
+            "img":"https://instagram.fblr1-5.fna.fbcdn.net/v/t51.2885-15/e35/83380142_124914672353235_1792528215063527003_n.jpg?_nc_ht=instagram.fblr1-5.fna.fbcdn.net&_nc_cat=103&_nc_ohc=EYulSfESHWsAX8tnI0Z&oh=2553acad9b091b7fbde8570d8162c4f7&oe=5F48A25E"
+        },
+
+    {
+        "name": "Failure",
+        "description": "Its not actually a fail, you will get to learn every time, but the problem is we forget the lesson it tought us, we should not commit the same mistake again and again, there will be no sense in making the same mistake everytime. Remeber one thing, mistakes that came to you can be solved, but not the one which is made by you",
+        "Rating": "00",
+        "episode":01,
+        "categorie": "Life",
+        "studio":"Adventure of Life",
+        "img": ""
+    }
 
     ]
